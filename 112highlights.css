@@ -1,0 +1,46 @@
+body {
+    font-family: Verdana;
+    background-color: bisque;
+}
+
+#superset {
+    width: 1000px;
+    height: 650px;
+    margin: auto;
+}
+
+h1 {
+    display: inline-block;
+}
+
+#csacademy {
+    display: inline-block;
+    width: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+.gameTitle {
+    display: inline-block;
+}
+
+div {
+    width: 90%;
+    margin: auto;
+}
+
+#gd {
+    width: 100px;
+}
+
+#s {
+    width: 150px;
+}
+
+video {
+    width: 90%;
+}
